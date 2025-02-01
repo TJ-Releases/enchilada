@@ -72,4 +72,5 @@
 - 11.0_test4 (out of beta!)
 - 10.11_release
 - ~~10.12_test1~~ - fajita-only
-- 10.12_test2
+- ~~10.12_test2~~ - fajita-only, but really; you weren't missing much
+- 10.12_test3
