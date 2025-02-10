@@ -75,3 +75,4 @@
 - ~~10.12_test2~~ - fajita-only, but really; you weren't missing much
 - 10.12_test3
 - 11.1_test1
+- 10.12_release
